@@ -1,12 +1,13 @@
 div {
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
-    height: 650px;
-    width: 25%;
+    height: 700px;
+    width: 50%;
     margin:auto;
     border-radius: 10px;
 }
 img {
     padding: 50px;
+	pmargin-left:40px;
     
 }
 
